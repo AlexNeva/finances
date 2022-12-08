@@ -1,1 +1,1 @@
-export const testFunc = () => {}
+export const testFunc = () => {};
